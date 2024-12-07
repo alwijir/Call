@@ -22,9 +22,9 @@ def main():
 def logo():
   print """%s
   __  __ ___    ___                                   
- |  \/  |   \  / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor by %sMr-S4NTUY%s
- | |\/| | |) | \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< %sGithub %sgithub.com/Mr-S4NYUY%s
- |_|  |_|___/  |___/ .__/\__,_|_|_|_|_|_|_\___|_| /__/ %sYOUTUBE %sTUTORIAL ANDROID%s
+ |  \/  |   \  / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor by %sAlwi%s
+ | |\/| | |) | \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< %sGithub %sgithub.com/Alwi%s
+ |_|  |_|___/  |___/ .__/\__,_|_|_|_|_|_|_\___|_| /__/ %sYOUTUBE %salwicrash%s
                    |_|                                 %sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
 def input():
